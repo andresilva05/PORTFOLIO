@@ -29,9 +29,15 @@
    
    window.onresize = resize;
    canvas.onmousemove = onMouseMove;
-   canvas.ontouchmove = onTouchMove;
    canvas.ontouchend = onMouseLeave;
    document.onmouseleave = onMouseLeave;
+   canvas.ontouchmove = null;
+
+   function onTouchMove(event) {
+     // Não faz nada
+   }
+   
+
    
    function generate() {
      for (let i = 0; i < STAR_COUNT; i++) {
