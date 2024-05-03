@@ -33,10 +33,6 @@
    document.onmouseleave = onMouseLeave;
    canvas.ontouchmove = null;
 
-   function onTouchMove(event) {
-     // Não faz nada
-   }
-   
 
    
    function generate() {
