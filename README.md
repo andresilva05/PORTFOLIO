@@ -6,6 +6,7 @@ Sou apaixonado por desenvolvimento web e este é o meu espaço para compartilhar
 https://portfólioandre05.netlify.app
 
 Dentro deste portfólio, você encontrará uma coleção dos meus projetos mais recentes e relevantes. Cada projeto é acompanhado de uma breve descrição e das tecnologias utilizadas. Sinta-se à vontade para explorar e deixar seus comentários.
+<img src="" alt="">
 
 Além disso, estou sempre aberto a novas oportunidades e colaborações. Você pode entrar em contato comigo através dos links fornecidos abaixo ou através do meu perfil no LinkedIn.
 
