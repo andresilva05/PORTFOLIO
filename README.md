@@ -1,4 +1,9 @@
-Bem-vindo ao meu portfólio digital! Sou apaixonado por desenvolvimento web e este é o meu espaço para compartilhar meus projetos e habilidades. Utilizei HTML, CSS e JavaScript para criar este site responsivo, garantindo uma experiência agradável em qualquer dispositivo.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/andresilva05/PORTFOLIO/blob/master/LICENSE)
+# Bem-vindo ao meu portfólio digital! 
+Sou apaixonado por desenvolvimento web e este é o meu espaço para compartilhar meus projetos e habilidades. Utilizei HTML, CSS e JavaScript para criar este site responsivo, garantindo uma experiência agradável em qualquer dispositivo.
+
+# Sobre o projeto
+https://portfólioandre05.netlify.app
 
 Dentro deste portfólio, você encontrará uma coleção dos meus projetos mais recentes e relevantes. Cada projeto é acompanhado de uma breve descrição e das tecnologias utilizadas. Sinta-se à vontade para explorar e deixar seus comentários.
 
