@@ -19,14 +19,14 @@ Obrigado por visitar e espero que aprecie o que encontrará aqui!
 
 ## Layout Mobile
 <div  align="left" >
-    <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-03%20%C3%A0(s)%2018.38.18_85e1a71b.jpg" width="200px" height="350px">
-    <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-03%20%C3%A0(s)%2018.38.17_0925d1bf.jpg" width="200px" height="350px">
-    <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.51.27_282238f3.jpg" width="200px" height="350px"/>
+    <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/img-readme/Imagem%20do%20WhatsApp%20de%202024-05-03%20%C3%A0(s)%2018.38.18_85e1a71b.jpg" width="200px" height="350px">
+    <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/img-readme/Imagem%20do%20WhatsApp%20de%202024-05-03%20%C3%A0(s)%2018.38.17_0925d1bf.jpg" width="200px" height="350px">
+    <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/img-readme/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.51.27_282238f3.jpg" width="200px" height="350px"/>
 </div>
 
 ## Layout Web
 <div align="left" >
-  <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.52.47_8efefe76.jpg" />
-  <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.52.18_eb83f3cc.jpg" />
+  <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/img-readme/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.52.47_8efefe76.jpg" />
+  <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/img-readme/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.52.18_eb83f3cc.jpg" />
 </div>
 
