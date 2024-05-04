@@ -11,6 +11,11 @@ Além disso, estou sempre aberto a novas oportunidades e colaborações. Você p
 
 Obrigado por visitar e espero que aprecie o que encontrará aqui!
 
+## Tecnologias Utilizadas
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 ## Layout Mobile
 <div  align="left" >
     <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-03%20%C3%A0(s)%2018.38.18_85e1a71b.jpg" width="200px" height="350px">
@@ -24,9 +29,3 @@ Obrigado por visitar e espero que aprecie o que encontrará aqui!
   <img src="https://github.com/andresilva05/PORTFOLIO/blob/master/Imagem%20do%20WhatsApp%20de%202024-05-02%20%C3%A0(s)%2021.52.18_eb83f3cc.jpg" />
 </div>
 
-## Tecnologias Utilizadas
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
-
-
-<p>JAVASCRIPT</p>
