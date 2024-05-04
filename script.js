@@ -107,9 +107,11 @@ function resize() {
 }
 
 function step() {
-  context.clearRect(0, 0, width, height);
-  update();
-  render();
+  if (!isMobileDevice()) {
+    context.clearRect(0, 0, width, height);
+    update();
+    render();
+  }
   requestAnimationFrame(step);
 }
 
