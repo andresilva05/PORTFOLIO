@@ -427,3 +427,24 @@ footer p {
     font-size: 50px;
   }
 }
+
+.sobre-projetos {
+  background-color: #fff; /* Fundo branco para destaque */
+  padding: 20px;
+  margin: 20px auto; /* Centraliza a seção */
+  max-width: 800px; /* Limita a largura */
+  border-radius: 8px; /* Cantos arredondados */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.sobre-projetos h2 {
+  font-size: 2em; /* Tamanho do título */
+  color: #333; /* Cor do texto */
+  margin-bottom: 10px; /* Espaço abaixo do título */
+}
+
+.sobre-projetos p {
+  font-size: 1.2em; /* Tamanho do texto */
+  line-height: 1.6; /* Espaçamento entre linhas */
+  color: #555; /* Cor do texto */
+}
