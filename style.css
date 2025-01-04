@@ -333,16 +333,6 @@ footer p {
   .menu-hamburger {
     cursor: pointer;
   }
-  /* .hamburger::before,
-  .hamburger::after {
-    content: "";
-    display: block;
-    width: 30px;
-    background: #ffffff;
-    margin-top: 5px;
-    position: relative;
-    transition: 0.3s;
-  } */
 
   .hamburger {
     display: block;
